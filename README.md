@@ -26,7 +26,7 @@ The results of running the code will be presented in the assignment report. This
 The assignment conclusion will provide insights into the strengths, limitations, and potential improvements of the implemented models. It will also offer reflections on the assignment process and outcomes.
 
 ## Contributors
-These assignments was authored and implemented by me.
+These assignments was authored and implemented by my university lecturer.
 
 ## License
 The code and data provided in this repository are released under the MIT LICENSE. Please refer to the LICENSE file for more information.
