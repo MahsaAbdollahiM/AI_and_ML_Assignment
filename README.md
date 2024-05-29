@@ -14,7 +14,7 @@ To assess the effectiveness of the implemented models, we'll use evaluation metr
 ## Instructions
 To run the code and reproduce the results:
 
-## Clone the repository to your local machine.
+### Clone the repository to your local machine.
 Install the required dependencies as specified in the README or setup instructions.
 Run the provided code files using your preferred Python environment or IDE.
 Explore the results and evaluate the performance of the implemented models.
